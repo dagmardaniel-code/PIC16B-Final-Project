@@ -14,7 +14,7 @@ Our project code was implemented on a MacBook Air with an Apple M2 chip and 8 GB
 ### Files 
 - `project.py` - contains functions written for this project
 - ‘flight_fare.ipynb` - contains the implementation of the project 
-- ‘flight_data_sampled.csv` - random subset of 1 million rows form dataset 
+- ‘flight_data_sampled.csv` - random subset of 1 million rows form dataset (too big to upload to github)
 
 ### Dataset
 Our dataset is sourced from Kaggle, it has 80 million rows, 27 columns, and over 30 GB. For time efficiency, we read a random subset of 1 million rows and exported it as a new CSV 'flight_data_sampled.csv.' 
